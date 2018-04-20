@@ -58,7 +58,7 @@
         app:label_distance="20dp"
         app:label_height="15dp"
         app:label_storkeColor="@color/white"
-        app:label_orientation="RIGHT_BOTTOM"
+        app:label_orientation="RIGHT_TOP"
         android:layout_marginTop="10dp"
         android:layout_centerHorizontal="true"
         />
